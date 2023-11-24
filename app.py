@@ -28,7 +28,7 @@ def customer_test():
 
 @app.route('/customer/list')
 def customer_list():
-    data=[{'name':'王小明1', 'gender':'男','age':20},
+    data=[{'name':'王大明1', 'gender':'男','age':20},
           {'name':'王小明2', 'gender':'男','age':21},
           {'name':'王小明3', 'gender':'女','age':22},
           {'name':'王小明4', 'gender':'男','age':23},
